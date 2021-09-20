@@ -5,6 +5,12 @@ I printed the original file and opted to use an M4x20 bolt and nut instead of th
 
 __PLEASE NOTE: I am providing these files as a convenience and cannot be responsible for any issues or problems you have with them. If you print these files, espcially the provided `.gcode` files you are doing so at your own risk.__
 
+## How to Download
+
+Just go here: https://github.com/just-trey/elegoo-neptune-2-tensioner/releases/tag/1.0 and click on the zip file to download.
+
+![tempsnip](https://user-images.githubusercontent.com/10281380/133952059-6ee01d14-c01f-4ecf-b62c-b706952be1c6.png)
+
 ## Instructions provided in Elegoo's Documentation:
 
 ### X-axis Belt Tensioner Assembly Guide
